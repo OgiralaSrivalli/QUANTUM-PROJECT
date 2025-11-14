@@ -31,6 +31,7 @@ This project was developed under strict time constraints, showcasing rapid proto
 ---
 
 ## 📊 Output Screenshots
+https://github.com/OgiralaSrivalli/QUANTUM-PROJECT/blob/main/Screenshot%202025-11-14%20191222.png
 
 
 ---
